@@ -4,7 +4,9 @@ MySQL , Express-JS , NodeJS merged together to create a RESFful server.
 
 ## SETUP
 
-- Restore database using `customer.sql` file.
+- Restore database using `customer.sql` file to DB `test`.
+
+- ( Optional ) change the credentials of MySQL-DB ( in index.js ) .
 
 - $ `npm install`
 
